@@ -19,3 +19,105 @@ body {
     margin-left: 45%;
 
 }
+
+.middle {
+    text-align: center;
+}
+
+.inline {
+    display: inline;
+    padding: 1%;
+    background-color: rgb(233, 237, 240);
+}
+
+#border {
+    border: 1px solid black;
+    padding: 1%;
+    margin: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: -15px;
+}
+
+#amount {
+    color: brown;
+    background-color: rgb(241, 163, 163);
+}
+
+#down {
+    padding: 10px;
+    background-color: lightslategrey;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.same-line {
+    display: inline-block;
+}
+
+#new-font {
+    color: tomato;
+    font-family: 'Lobster', cursive;
+}
+
+#footer {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+.extra {
+    display: flex;
+}
+
+.extra img {
+    width: 60%;
+}
+
+.contribute {
+    background-color: rgb(238, 67, 67);
+    margin-right: 80%;
+}
+
+#bottom {
+    text-align: center;
+}
+
+#email {
+    margin-left: 40%;
+    margin-right: 40%;
+    display: flex;
+    padding: 2%;
+    background-color: wheat;
+
+}
+
+#subs {
+    padding: 10px;
+    background-color: rgb(238, 67, 67);
+}
+
+.donate-plan {
+    display: flex;
+}
+
+.food {
+    background-color: rgb(189, 255, 233);
+    margin: 1%;
+    padding: 10px;
+}
+
+.shelter {
+    background-color: rgb(243, 188, 225);
+    margin: 1%;
+    padding: 10px;
+}
+
+.edu {
+    background-color: bisque;
+    margin: 1%;
+    padding: 10px;
+}
